@@ -1,4 +1,4 @@
-package id.co.psplauncher.main
+package id.co.psplauncher.ui.main
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
